@@ -1,0 +1,34 @@
+2023-12-19 12:12:82 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 12:12:950 INFO  LoginPage :42 - Get welcomeText : Welcome, Please Sign In!
+2023-12-19 12:12:672 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 12:12:736 INFO  LoginPage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-19 12:12:822 INFO  LoginPage :56 - Enter Password 'Tester123' to password field : 
+2023-12-19 12:12:879 INFO  HomePage :55 - Checking is loginLink displayed : Log in
+2023-12-19 12:12:814 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 12:12:993 INFO  LoginPage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-19 12:12:86 INFO  LoginPage :56 - Enter Password 'Tester123' to password field : 
+2023-12-19 12:12:113 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 12:12:452 INFO  HomePage :55 - Checking is loginLink displayed : Log in
+2023-12-19 12:12:383 INFO  HomePage :62 - Click on registerLink : Register
+2023-12-19 12:12:270 INFO  HomePage :81 - Get registerText : Register
+2023-12-19 12:12:674 INFO  HomePage :62 - Click on registerLink : Register
+2023-12-19 12:12:708 INFO  HomePage :89 - Select 'Female' radio button
+2023-12-19 12:12:809 INFO  HomePage :99 - Enter Firstname : 'Smart' to firstName field
+2023-12-19 12:12:871 INFO  HomePage :105 - Enter Lastname : 'Tester' to lastName field
+2023-12-19 12:12:502 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 12:12:895 INFO  LoginPage :42 - Get welcomeText : Welcome, Please Sign In!
+2023-12-19 12:12:663 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 12:12:440 INFO  LoginPage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-19 12:12:597 INFO  LoginPage :56 - Enter Password 'Tester123' to password field : 
+2023-12-19 12:12:686 INFO  HomePage :55 - Checking is loginLink displayed : Log in
+2023-12-19 12:12:269 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 12:12:555 INFO  LoginPage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-19 12:12:628 INFO  LoginPage :56 - Enter Password 'Tester123' to password field : 
+2023-12-19 12:12:651 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 12:12:206 INFO  HomePage :55 - Checking is loginLink displayed : Log in
+2023-12-19 12:12:694 INFO  HomePage :62 - Click on registerLink : Register
+2023-12-19 12:12:482 INFO  HomePage :81 - Get registerText : Register
+2023-12-19 12:12:325 INFO  HomePage :62 - Click on registerLink : Register
+2023-12-19 12:12:294 INFO  HomePage :89 - Select 'Female' radio button
+2023-12-19 12:12:429 INFO  HomePage :99 - Enter Firstname : 'Smart' to firstName field
+2023-12-19 12:12:500 INFO  HomePage :105 - Enter Lastname : 'Tester' to lastName field
